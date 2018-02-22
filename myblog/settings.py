@@ -25,7 +25,7 @@ SECRET_KEY = 'i^nj&^yh64$djv(3957vw2=v(8z@g)f9v2@@)k!ry_$wjz5#i('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '.wuyuqiang.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '.wuyuqiang.com','192.168.8.1','192.168.8.71']
 
 
 # Application definition
