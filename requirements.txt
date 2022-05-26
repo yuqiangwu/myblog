@@ -127,7 +127,7 @@ tornado==4.5.2
 torndb==0.3
 traitlets==4.3.2
 tushare==1.0.7
-Twisted==17.5.0
+Twisted==22.4.0
 uritemplate==3.0.0
 urllib3==1.22
 virtualenv==15.1.0
